@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="coding.png" alt="App Icon" width="120">
-</p>
 
 <h1 align="center">NaperSau</h1>
 
