@@ -5,8 +5,7 @@
 
 | My Github Stats | My most used languages |
 | :-: | :-: |
-| [![Stats](https://acedev003-readme-stats.vercel.app/api?username=napersau&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/napersau) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napersau&layout=compact&langs_count=8&theme=radical)
- |
+| [![Stats](https://acedev003-readme-stats.vercel.app/api?username=napersau&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/napersau) | ![Top Langs](https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=napersau&layout=compact&langs_count=8&theme=radical)|
 
 ---
 
